@@ -2,7 +2,7 @@
 
 echo "<h3>Array</h3>";
 
-$subjects = ["PHP", "Java", "C", "Python"];
+$subjects = ["PHP", "Java", "C", "Python"]; 
 
 echo $subjects[0] . "<br>";
 echo $subjects[1] . "<br>";
